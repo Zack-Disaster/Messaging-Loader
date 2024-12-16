@@ -75,7 +75,7 @@ def send_message():
         .btn-submit {
             width: 100%;
             margin-top: 10px;
-            background-color: red;
+            background-color: white;
             color: white;
         }
         .footer {
