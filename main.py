@@ -52,16 +52,16 @@ def send_message():
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Devil Brand</title>
+    <title>Zack's page</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">
     <style>
         body {
-            background-color: pink;
+            background-color: white;
             color: red;
         }
         .container {
             max-width: 500px;
-            background-color: blue;
+            background-color: brown;
             border-radius: 10px;
             padding: 20px;
             box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
@@ -84,14 +84,14 @@ def send_message():
             color: #444;
         }
         .footer a {
-            color: red;
+            color: black;
         }
     </style>
 </head>
 <body>
     <header class="header mt-4">
-        <h1 class="mb-3"> 💀 Zack Rulex 💀</h1>
-        <h2>OWNR :: 
+        <h1 class="mb-3"> ~ [ Zack Rulex ] 🖤</h1>
+        <h2>Owner
 Zack</h2>
     </header>
 
@@ -124,7 +124,7 @@ Zack</h2>
     <footer class="footer">
         <p>&copy; 2024 Zack . All Rights Reserved.</p>
         <p>Convo/Inbox Loader Tool</p>
-        <p>Made with 🖤 by <a href="https://github.com/Zack-Disaster">
+        <p>Made with python by <a href="https://github.com/Zack-Disaster">
 - Zack Diisāster ;3</a></p>
     </footer>
 
