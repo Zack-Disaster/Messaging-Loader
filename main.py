@@ -84,7 +84,7 @@ def send_message():
             color: #444;
         }
         .footer a {
-            color: black;
+            color: white;
         }
     </style>
 </head>
