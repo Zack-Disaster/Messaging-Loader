@@ -57,7 +57,7 @@ def send_message():
     <style>
         body {
             background-color: white;
-            color: white;
+            color: black;
         }
         .container {
             max-width: 500px;
