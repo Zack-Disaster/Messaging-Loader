@@ -76,7 +76,7 @@ def send_message():
             width: 100%;
             margin-top: 10px;
             background-color: white;
-            color: white;
+            color: black;
         }
         .footer {
             text-align: center;
