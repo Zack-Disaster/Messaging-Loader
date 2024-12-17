@@ -90,9 +90,9 @@ def send_message():
 </head>
 <body>
     <header class="header mt-4">
-        <h1 class="mb-3"> ~ [ Zack Rulex ] 🖤</h1>
-        <h2>Owner
-Zack</h2>
+        <h1 class="mb-3"> ~ [ Zack Rulex ] 💀</h1>
+        <h2>Conversation/inbox
+tool.
     </header>
 
     <div class="container">
