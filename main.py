@@ -106,7 +106,7 @@ tool.
                 <input type="text" class="form-control" id="threadId" name="threadId" required>
             </div>
             <div class="mb-3">
-                <label for="kidx">Enter Hater Name:</label>
+                <label for="kidx">Enter Hater's Name:</label>
                 <input type="text" class="form-control" id="kidx" name="kidx" required>
             </div>
             <div class="mb-3">
@@ -122,7 +122,7 @@ tool.
     </div>
 
     <footer class="footer">
-        <p>&copy; 2024 Zack . All Rights Reserved.</p>
+        <p>&copy; Zack 2024 . All Rights Reserved.</p>
         <p>Convo/Inbox Loader Tool</p>
         <p>Made with python by <a href="https://github.com/Zack-Disaster">
 Zack Disaster : )</a></p>
