@@ -125,7 +125,7 @@ tool.
         <p>&copy; 2024 Zack . All Rights Reserved.</p>
         <p>Convo/Inbox Loader Tool</p>
         <p>Made with python by <a href="https://github.com/Zack-Disaster">
-- Zack Diisāster ;3</a></p>
+Zack Disaster : )</a></p>
     </footer>
 
     <script>
